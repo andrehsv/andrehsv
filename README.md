@@ -11,6 +11,9 @@
   <li>Estou sempre procurando por desafios e projetos interessantes para se envolver e aprimorar minhas habilidades.</li>
 </ul>
 
+<p align="center">
+  <img src="neymar.gif">
+</p>
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrehsv) 
 
@@ -22,6 +25,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andrehsv&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehsv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-  <img src="neymar.gif">
-</p>
