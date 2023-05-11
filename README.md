@@ -1,4 +1,6 @@
-![Vinland Saga](vinland-saga.gif)
+<p align="center">
+  <img width=500 height=300 src="vinland-saga.gif">
+</p>
 
 # 💫 Hello, world!
 <ul>
@@ -20,3 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andrehsv&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehsv&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="neymar.gif">
+</p>
