@@ -1,13 +1,17 @@
-![Vinland-saga](https://github.com/andrehsv/vinland-saga.gif)
+![Vinland Saga](vinland-saga.gif)
 
-# 💫 Olá
-Me chamo André e sou um estudante de Sistemas de Informação
-
+# 💫 Hello, world!
+<ul>
+  <li>Me chamo André e sou um estudante de Sistemas de Informação com uma paixão por tecnologia e programação. Estou constantemente buscando oportunidades para aprender e expandir meus conhecimentos;</li>
+  <li>Estou sempre interessado em novas tecnologias e tendências da indústria;</li>
+  <li>Com habilidades em diversas linguagens de programação e ferramentas de desenvolvimento, eu tenho a capacidade de criar soluções criativas e eficazes para desafios complexos;</li>
+  <li>Estou sempre procurando por desafios e projetos interessantes para se envolver e aprimorar minhas habilidades.</li>
+</ul>
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrehsv) 
 
-## 💻 Tecnologias que uso/usei:
+## 💻 Tecnologias que uso:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 ## 📊 Estatísticas:
