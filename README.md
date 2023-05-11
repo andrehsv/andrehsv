@@ -1,4 +1,4 @@
-![](https://github.com/andrehsv/vinland-saga.gif)
+![Vinland-saga](https://github.com/andrehsv/vinland-saga.gif)
 
 # 💫 Olá
 Me chamo André e sou um estudante de Sistemas de Informação
