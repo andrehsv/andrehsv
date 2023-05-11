@@ -2,7 +2,8 @@
 
 # 💫 Hello, world!
 <ul>
-  <li>Me chamo André e sou um estudante de Sistemas de Informação com uma paixão por tecnologia e programação. Estou constantemente buscando oportunidades para aprender e expandir meus conhecimentos;</li>
+  <li>Me chamo André e sou um estudante de Sistemas de Informação com uma paixão por tecnologia e programação;</li>
+  <li>Estou constantemente buscando oportunidades para aprender e expandir meus conhecimentos;</li>
   <li>Estou sempre interessado em novas tecnologias e tendências da indústria;</li>
   <li>Com habilidades em diversas linguagens de programação e ferramentas de desenvolvimento, eu tenho a capacidade de criar soluções criativas e eficazes para desafios complexos;</li>
   <li>Estou sempre procurando por desafios e projetos interessantes para se envolver e aprimorar minhas habilidades.</li>
