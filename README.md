@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=450&height=120&separator=%3D&lines=console.log('Meu+nome+%C3%A9+Andr%C3%A9'+%2B%3D'e+programar+%C3%A9+minha+paix%C3%A3o+%3C3');" alt="Typing SVG" height=70/></a>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,eclipse,postman,spring,github&perline=4" height=80/>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,eclipse,postman,spring,github,git&perline=4" height=80/>
   </a>
 
   <br><br>
